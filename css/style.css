@@ -1,0 +1,158 @@
+body{background:url(../images/bgggg.jpg) no-repeat;      background-position: center center;
+    background-size: 100%;}
+.navbar-inverse{background:#000; border-bottom:1px solid #ccc; border-color:#000;}
+.navbar { min-height: 100px;}
+#navbar{    float: right;
+    font-size: 18px;
+    font-weight: 500;
+    padding-top: 36px;}
+.navbar-inverse .navbar-nav>li>a {
+    color: #ffffff;   padding: 7px 15px; 
+    border-radius: 30px;
+}
+.navbar-inverse .navbar-nav>li>a.active{    background: #fff;
+    color: #f05e06;
+    border-radius: 25px;
+    padding: 7px 15px;}
+.navbar .container{      height: 110px;  border-bottom: 1px solid #909090;}
+footer{background:rgba(0,0,0,0.5);    position: fixed;
+    bottom: 0;
+    width: 100%;padding:20px 0px; }
+footer span{ color:#68696b; float:left; display:block; padding:0px 10px;    font-size: 12px;
+    line-height: 10px;}
+    .form-content{   
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px #ccc;
+    padding: 40px; width: 65%;
+    margin: 150px auto 80px;}
+ .form-content h2{    margin: 0;
+    text-align: center;
+    padding-bottom: 30px;}
+ .form-content button {background: #f05e06;
+    border: 0;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: #fff;}
+    .navbar-inverse .navbar-toggle { 
+    margin-top: 35px;
+}
+@media (max-width:768px){
+    #navbar {
+    float: left;
+    font-size: 18px;
+    font-weight: 500;
+    padding-top: 0;
+    width: 100%;
+    margin-top: 30px;
+}
+.form-content { 
+    padding: 20px;
+    width: 90%; 
+}
+.form-content h2 { 
+    padding-bottom: 10px;
+}
+body{background:url(../images/bgggg.jpg) no-repeat;      background-position: center center;
+    background-size: cover;}
+}
+
+
+
+body.how-to-play{background:none;}
+.how-header{background:url(../images/bgggg.jpg) no-repeat;      background-position: center center;
+    background-size: 100%;}
+.how-header .navbar-inverse{background:none; border:0px;}
+.how-header h2{text-align:center;}
+.game-screen{width:100%;       text-align: center;  position: relative;}
+.game-screen img{   width: 26%;}
+.how-header .navbar .container { 
+   border-bottom:0px; 
+}
+.game-screen img.img-midd{   position: absolute; float:none;    width: 42%;    left: auto; right: 29%; margin:0px auto; }
+.game-screen img.img-first{   margin:154px 140px 0px 0px; }
+.game-screen img.img-last{    margin:154px 0px 0px 140px; }
+
+
+.game-screen-warp{position: relative;
+    padding-top: 110px;}
+.game-screen-warp h2{    font-size: 34px;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    z-index: 99;
+    color: #fff;
+    top: 90px;
+    font-weight: bold;}
+
+
+.download-section{    background: #f7f7f7;
+    text-align: center;
+    padding: 40px 0px;}
+.download-section ul{list-style:none; padding:0px;    margin: 0px auto;
+    width: 590px;}
+.download-section ul li{     width: 255px;
+    float: left;
+    margin: 0px 20px;}
+.download-section ul li a{    padding: 20px 20px 20px 30px;
+    display: block;
+    margin: 0 auto;
+    -webkit-box-shadow: 0 2px 8px 0 rgba(221,221,221,.75);
+    box-shadow: 0 2px 8px 0 rgba(221,221,221,.75); background:#fff;    text-align: left;
+    font-size: 18px;
+    color: #333;
+
+}
+.download-section ul li a img{    float: left;
+    height: 50px;
+    margin-right: 20px;}
+.download-section ul li a span{    display: block;
+    color: #ccc;
+    font-size: 16px;}
+h2.how-tetlle{font-size: 34px;
+    font-weight: bold;
+    padding: 10px 0px 30px;
+    margin: 0;}
+.orange{color:#f05e06;}
+.apppi-section{background:url(../images/skin-1.jpg) no-repeat;  
+    background-size: 100%;    margin:40px 0px;    background-position: 0px 30px;}
+    .steppiii{    height: 510px;
+    margin: 0px auto;
+    display: block;}
+ .apppi-section h2{margin-top:100px;}
+.apppi-section p{    font-size: 16px;
+    margin-bottom: 20px;}
+    
+footer.how-foooter{    background: #f1f1f1;
+    position: inherit;}
+    
+    .tncc h4{color: #f05e06; margin-top:20px;}
+    .how-t-ply{padding-top: 36px;
+    display: block;
+    color: #ffffff;
+    float: left;
+    font-size: 18px;
+    text-transform: uppercase;
+    background: #f05e06;
+    padding: 6px 15px 3px;
+    border-radius: 40px;
+    margin-top: 33px;}
+    
+    
+    .mobbbileee{display:none;}
+    
+    @media (max-width: 767px) {
+    .webbbiii{display:none;} 
+    .mobbbileee{display:block;}
+    }
+
+
+a.btn.btn-primary.down-brn-roun{    background: #f05e06;
+    border-color: #f05e06;
+    border-radius: 30px;
+    padding: 7px 20px;
+    margin-left: 10px;}
+
+
+
+
