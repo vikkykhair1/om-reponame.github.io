@@ -1,0 +1,397 @@
+.sectionnn-1{background:#000;     padding-top: 110px;}
+
+.navbar-inverse {
+    background-color: #000;
+    border-color: #000000;    height: 100px;
+}
+
+.sectionnn-1 h1{color:#f05e06; font-size:50px; font-weight:bold;}
+.sectionnn-1 p{color:#fff; font-size:16px;}
+.sectionnn-1 a{color:#fff; font-size:16px; padding-top:10px; display: block;   font-weight: bold;}
+.sectionnn-1 a img{ margin-left:10px; vertical-align: text-top; }
+.sectionnn-1 img.first-img-to{height:300px; display:block; margin:0px auto;}
+.sectionnn-1 a.navbar-brand img{margin-left:0px;}
+
+
+.badal{width:100%; display:block;}
+.sectionnn-2{background:#dbdecb;}
+.sectionnn-2 h2{ text-align: center;
+    padding: 10px 0px 0px 0px;
+    font-weight: bold;}
+.app-processss{width:90%; display:block; margin:0px auto;}
+
+.mobile-review{padding-top:10px;}
+.mobile-review ul{list-style:none; margin:0px; padding:0px;}
+.mobile-review ul li img{float:left; margin-right:10px;  }
+.mobile-review ul li p{float:left;     width: 90%; }
+.mobile-review ul li{clear:both;}
+.mobile-review ul li p span{display: block;
+    color: #f05e06;}
+    
+.pahad{width:100%; display:block;}
+.sectionnn-3{background:#a68f58; color:#fff}
+.sectionnn-3 h2{ text-align: center;
+    padding: 10px 0px 0px 0px;
+    font-weight: bold;}
+
+.yellow-parer{margin:20px auto; display:block;}
+.app-mobiiil{margin:0px auto; display:block;}
+.description{ margin-bottom: 30px;}
+
+.cuttti{width:100%; display:block;}
+
+.sectionnn-4{background:#414042; color:#fff; }
+.sectionnn-4 h2{ text-align: center;
+    padding: 10px 0px 0px 0px;
+    font-weight: bold;}
+
+.navbar-inverse .navbar-toggle { 
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.sectionnn-4 .envelopes {
+  position: relative;
+  width: 469px;
+  /*   top: -25px; */
+ /* left: 222px;*/
+}
+.sectionnn-4 .envelopes .handwrittenFont {
+  font-family: Romy;
+  font-size: 21px;
+  letter-spacing: 0px;
+  -webkit-font-smoothing: antialiased;
+}
+.sectionnn-4 .envelopes .envelopeIn {
+  position: absolute;
+  top: 190px;
+}
+.sectionnn-4 .envelopes .envelopeOut {
+  position: absolute;
+  left: 0px;
+  top: 190px;
+}
+.sectionnn-4 .envelopes .envelopeOutTop {
+  z-index: 1;
+  display: block;
+  position: relative;
+}
+.sectionnn-4 .envelopes .envelopeOutBottom {
+  z-index: 15;
+  display: block;
+  position: relative;
+}
+.sectionnn-4 .envelopes .envelopeCover {
+  position: absolute;
+  top: 1px;
+}
+/* letter */
+.sectionnn-4 .envelopes .letterWrapper {
+  overflow: hidden;
+  width: 401px;
+  height: 400px;
+  position: absolute;
+  left: 40px;
+  top: 68px;
+}
+.sectionnn-4 .envelopes .letterWrapper .letter {
+  width: 100%;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  color: #464646;
+}
+/* letter - form elements */
+.sectionnn-4 .envelopes .letterWrapper .letter input,
+.sectionnn-4 .envelopes .letterWrapper .letter textarea {
+  overflow: hidden;
+  width: 100%;
+  position: absolute;
+  z-index: 1;
+  border: 0;
+  margin: 0;
+  padding: 0;
+  /*    background-color: #fffffbb5; */
+  background: #000000 transparent;
+  background-color: rgba(255, 255, 255, 0);
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#00000000, endColorstr=#00000000)";
+  /* IE 8*/
+  color: #0072be;
+}
+.sectionnn-4 .envelopes .letterWrapper .letter .text input,
+textarea:focus {
+  outline-width: 0;
+  outline: 0;
+}
+/* letterBackground */
+.sectionnn-4 .envelopes .letterWrapper .letter .letterBackground {
+  position: absolute;
+  line-height: 0;
+}
+.sectionnn-4 .envelopes .letterWrapper .letter .letterBackground .shape {
+  background-color: #fffab5;
+  width: 391px;
+  height: 250px;
+}
+/* letterContent */
+.sectionnn-4 .envelopes .letterWrapper .letter .letterContent {
+  width: 339px;
+  position: relative;
+  left: 25px;
+  top: 28px;
+}
+.sectionnn-4 .envelopes .letterWrapper .letter .letterContent .lineWrapper {
+  display: table;
+}
+.sectionnn-4 .envelopes .letterWrapper .letter .letterContent .dearBoyCoy {
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+.sectionnn-4 .envelopes .letterWrapper .letter .letterContent .line {
+  display: table-row;
+}
+.sectionnn-4 .envelopes .letterWrapper .letter .letterContent .line .text {
+  display: table-cell;
+  white-space: nowrap;
+}
+.sectionnn-4 .envelopes .letterWrapper .letter .letterContent .line .textFillWidth {
+  width: 100%;
+}
+.sectionnn-4 .envelopes .letterWrapper .letter .letterContent .line .text .textContentWrapper {
+  position: relative;
+  margin-right: 2px;
+}
+.sectionnn-4 .envelopes .letterWrapper .letter .letterContent .underline {
+  display: inline-block;
+  width: 100%;
+  position: relative;
+  top: 1px;
+  height: 1px;
+  background-color: #ffde16;
+}
+.sectionnn-4 .envelopes .letterWrapper .letter .letterContent .exclamationMark {
+  display: inline-block;
+  position: relative;
+  top: -2px;
+  left: -10px;
+  width: 0px;
+}
+.sectionnn-4 .envelopes .letterWrapper .letter .letterContent .mailContentContainer {
+  width: 100%;
+  position: relative;
+  line-height: 1.3;
+  /*   -webkit-font-smoothing: antialiased; */
+}
+.sectionnn-4 .envelopes .letterWrapper .letter .letterContent .mailContentContainer textarea {
+  line-height: 1.3;
+  resize: none;
+}
+/* letterForeground */
+.sectionnn-4 .envelopes .letterWrapper .letter .letterForeground {
+  z-index: 2;
+  width: 339px;
+  position: relative;
+  left: 25px;
+  top: 28px;
+}
+.sectionnn-4 .envelopes .letterWrapper .letter .letterForeground .mailSendWrapper {
+  margin-top: 10px;
+}
+.sectionnn-4 .envelopes .letterWrapper .letter .letterForeground .mailSendWrapper .mailSendContainer button {
+  position: relative;
+  cursor: pointer;
+  height: 34px;
+  line-height: 34px;
+  border: 0;
+  border-radius: 17px;
+  margin: 0;
+  padding: 0;
+  background-color: #83bf17;
+  color: white;
+  text-align: left;
+  font-size: 16px;
+}
+.sectionnn-4 .envelopes .letterWrapper .letter .letterForeground .mailSendWrapper .mailSendContainer button .text {
+  margin-left: 14px;
+}
+.sectionnn-4 .envelopes .letterWrapper .letter .letterForeground .mailSendWrapper .mailSendContainer button img {
+  margin-bottom: -1px;
+  margin-left: 9px;
+  margin-right: 9px;
+}
+.sectionnn-4 .envelopes .letterStatus {
+  z-index: 2;
+  width: 100%;
+  position: absolute;
+  top: 156px;
+}
+.sectionnn-4 .envelopes .letterStatus .info {
+  color: #464646;
+  font-size: 28px;
+}
+.sectionnn-4 .envelopes .letterStatus .goBack {
+  display: inline-block;
+  width: 100px;
+  cursor: pointer;
+  margin-top: 7px;
+  color: #83bf25;
+  font-size: 19px;
+}
+.sectionnn-4 .envelopes .letterStatus .goBack img {
+  margin-bottom: -2px;
+}
+.sectionnn-4 .envelopes .letterStatus .goBack img.over {
+  background-color: #bef0f0;
+}
+/* .sectionnn-4 .envelopes .letterWrapper .letter { */
+/*   display: none; */
+/* } */
+.sectionnn-4 .envelopes .letterSending {
+  display: none;
+}
+.sectionnn-4 .envelopes .letterSent {
+  display: none;
+}
+.sectionnn-4 .envelopes .letterError {
+  display: none;
+}
+
+
+.gkk-form{background:#fffab5;  color:#414042; padding:20px; border-radius:10px; margin-bottom:20px; }
+.gkk-form label{display:inline-block;}
+.gkk-form input.form-control{display:inline-block; border:0px; padding:0px; border-bottom:2px solid #ffde16; background:none; width:37%; box-shadow:0px 0px 0px; border-radius:0px;}
+.gkk-form textarea.form-control{display:inline-block; border:0px; border-bottom:2px solid #ffde16; background:none; width:100%; box-shadow:0px 0px 0px; border-radius:0px;}
+
+
+
+
+.sectionnn-4 .iconText {
+    color: white;
+    font-size: 17px;
+    letter-spacing: -1px;
+    padding-top: 12px;
+}
+.sectionnn-4  a {
+    color: white;
+}
+.sectionnn-4 .text {
+    /* width: 240px; */
+    margin-top: 8px;
+    font-size: 18px;
+    letter-spacing: -1px;
+}
+.sectionnn-4 .iconText .icon {
+    background-image: url(../images/social_icons.png);
+}
+.sectionnn-4 .iconText .icon {
+    display: inline-block;
+    width: 28px;
+    height: 26px;
+    position: relative;
+    top: 2px;
+    margin-right: 2px;
+    vertical-align: bottom;
+}
+.sectionnn-4 .iconText .icon.iconEmailHello {
+    background-position: 0px 0px;
+}
+.sectionnn-4 .iconText .icon.iconPhone {
+    background-position: 0px -26px;
+}
+.sectionnn-4 .iconText .icon.iconLocation {
+    background-position: 0px -52px;
+}
+.sectionnn-4 .iconText .icon.iconFacebook {
+    background-position: 0px -78px;}
+.sectionnn-4 .iconText .icon.iconTwitter {
+    background-position: 0px -156px;
+}
+
+footer.how-foooter {
+    background: #f1f1f1;
+    position: inherit;
+  
+    bottom: 0;
+    width: 100%;
+    padding: 20px 0px;
+}
+footer.how-foooter span {
+    color: #68696b;
+    float: left;
+    display: block;
+    padding: 5px 10px ;
+    font-size: 12px;
+    line-height: 10px;
+}
+.sectionnn-1 .navbar-nav {
+   background:#000;
+}
+
+footer.footer-sign { 
+  
+    bottom: 0;
+    width: 100%;
+    padding: 20px 0px;
+}
+footer.footer-sign span {
+    color: #68696b;
+    float: left;
+    display: block;
+    padding: 5px 10px ;
+    font-size: 12px;
+    line-height: 10px;
+}
+ 
+ 
+
+ @media (max-width: 767px) {
+     
+     .how-t-ply2{display:block !important;}
+      .how-t-ply{display:none;}
+     .game-screen img.img-first {
+    margin: 75px 60px 0px 0px;
+    }
+    .game-screen img.img-midd { 
+    margin: 12px auto 0px;
+    }
+    .game-screen img.img-last {
+        margin: 75px 0px 0px 60px;
+    }
+    .how-header{    background-size: cover !important;}
+    .download-section ul li{float:none;margin:10px auto;}
+    .download-section ul{width:100%;text-align:center;}
+    .apppi-section h2 {
+    margin-top: 0px;
+    }
+    h2.how-tetlle {
+    font-size: 24px;}
+    .apppi-section p {
+    font-size: 14px; }
+     .apppi-section{   background-position: 0px 400px;}
+     .steppiii{height:100%; width:100%;}
+     #navbar{    margin-top: 0px;
+    background: #000;
+    width: 110%;}
+    footer.footer-sign { position:inherit;}
+ }
+  @media (max-width: 400px) {
+     
+     .game-screen img.img-first {
+    margin: 75px 40px 0px 0px;
+    }
+    .game-screen img.img-midd { 
+    margin: 31px auto 0px;
+    }
+    .game-screen img.img-last {
+        margin: 75px 0px 0px 40px;
+    } 
+ }
+ 
+
+
+
+
+
+
+
+
